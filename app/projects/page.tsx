@@ -18,7 +18,7 @@ const PROJECTS = [
     bullets: [
       "Dual-model waste forecasting: CEEW installed-base model (37.2% CAGR) and Weibull failure distribution — converged to a single effective waste estimate.",
       "MILP-based facility location optimisation via Gurobi — identified 8 optimal locations nationally using K-means clustering, reducing operational cost by 12%.",
-      "DCF analysis: IRR 42.2%, NPV ₹68.76 Cr, Benefit-Cost Ratio 1.64 over a 20-year horizon.",
+      "DCF analysis: IRR 12.2%, NPV ₹25.76 Cr, Benefit-Cost Ratio 1.23 over a 20-year horizon.",
       "Life Cycle Assessment (LCA): net GWP benefit of –1,858 kg CO₂-eq per tonne of panels recycled.",
     ],
     stack: ["Python", "Gurobi", "MILP", "Weibull", "DCF / LCA"],

@@ -77,12 +77,23 @@ const LEADERSHIP = [
   {
     org: "Center For Innovation, IIT Madras",
     role: "Head of Sponsorship & Investor Relations",
-    period: "Feb 2025 – Present",
+    period: "Feb 2025 – May 2026",
     bullets: [
       "Spearheaded sponsorship for Open House '25 and Research Conclave '25 — a first-of-its-kind student expo with 10,000+ attendees.",
       "Contacted 50+ Indian and international companies including GitHub, Jane Street, Autodesk, AnSYS, and Stellantis for sponsorship deals.",
       "3Xed outreach by collaborating with IITM Research Park, ICSR, and Centres of Excellence including FedEx, Walmart, and CTAP.",
       "Conducted hackathons of 1,000+ participants with a prize pool of INR 5 lakhs each, in collaboration with Appian and Alphagrep.",
+    ],
+  },
+  {
+    org: "IIT Madras, Inter IIT 13.0",
+    role: "Case Guild Mentor and Travelling Contingent",
+    period: "Aug 2024 – May 2026",
+    bullets: [
+      "Led a 4-member travelling contingent, formulating solar panel recycling solutions presented to Insolation Energy Limited at IIT Bombay",
+      "Utilized a two-fold approach to converge on the effective solar waste produced in India based on prevalent prediction models",
+      "Performed cost-benefit analysis using discounted cash flow methods, converging results with top-down and bottom-up approaches",
+      "Drafted a 22-page report explicating our solution, and collaborated with other guilds to ensure quality submissions across all guilds",
     ],
   },
   {
@@ -93,15 +104,6 @@ const LEADERSHIP = [
       "Ideated and planned a profitable business around the FSAE vehicle for static events at multiple Formula Student competitions.",
       "Evaluated the market using data analysis, linear regression, balance sheets, cash flows, and income statements; developed a Deep Dive valuation analysis.",
       "Managed liaison between the team and sponsors, public relations, and post-event proof of branding for Mechanica '24 & '25.",
-    ],
-  },
-  {
-    org: "Nirmaan, IIT Madras",
-    role: "PM Coordinator",
-    period: "Oct 2023 – Dec 2023",
-    bullets: [
-      "Served as liaison between pre-incubation startups and Nirmaan, providing requirements and resources to early-stage founders.",
-      "Organised entrepreneurship sessions with industry spokespersons; connected corporate contacts with budding startups.",
     ],
   },
 ];
