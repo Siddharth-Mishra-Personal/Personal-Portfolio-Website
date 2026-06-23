@@ -94,7 +94,7 @@ export default function Contact() {
 
             <div className="border-t border-border pt-8">
               <a
-                href="/resume.pdf"
+                href="/Master_Resume_Siddharth_Mishra.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-sm border border-gold/40 text-gold px-5 py-2.5 rounded hover:bg-gold hover:text-bg transition-all"

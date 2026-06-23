@@ -113,7 +113,7 @@ export default function Nav() {
               </Link>
             ))}
             <a
-              href="/resume.pdf"
+              href="/Master_Resume_Siddharth_Mishra.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm border border-gold/40 text-gold px-4 py-2 rounded text-center hover:bg-gold hover:text-bg transition-all"
