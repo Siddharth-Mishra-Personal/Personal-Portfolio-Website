@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Siddharth Mishra — Portfolio
 
 Built with **Next.js 14** (App Router) + **Tailwind CSS** + **TypeScript**.  
