@@ -102,6 +102,14 @@ export default function Contact() {
                 Download resume
                 <span>↓</span>
               </a>
+              <a
+                href="/Master_Resume_Siddharth_Mishra.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm border border-gold/40 text-gold px-4 py-1.5 rounded hover:bg-gold hover:text-bg transition-all"
+              >
+                Resume ↗
+              </a>
             </div>
           </div>
         </div>
