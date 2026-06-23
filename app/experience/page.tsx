@@ -116,8 +116,7 @@ export default function Experience() {
           Professional experience
         </h1>
         <p className="text-muted text-base max-w-xl mb-16 leading-relaxed">
-          Strategy consulting, VC deal sourcing, and product analytics — across four internships and
-          two full-time offers in the pipeline.
+          Strategy consulting, VC deal sourcing, and product analytics — across four internships.
         </p>
 
         {/* Work experience */}

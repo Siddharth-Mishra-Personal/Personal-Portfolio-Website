@@ -42,7 +42,6 @@ const FEATURED = [
 const LOGOS = [
   "Accenture",
   "Monitor Deloitte",
-  "igniteXL Ventures",
   "IIT Madras",
   "BondsIndia",
 ];
@@ -166,7 +165,7 @@ export default function Home() {
               Open to VC, AI Product, and strategy roles.
             </h2>
             <p className="text-muted text-sm max-w-md">
-              Graduating June 2026. Based in Delhi, open to relocating.
+              Based in Gurugram/Bangalore, open to relocating for the right opportunity.
             </p>
           </div>
           <Link

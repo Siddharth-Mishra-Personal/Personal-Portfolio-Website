@@ -101,6 +101,3 @@ The nav "Resume ↗" button and the contact page download link will pick it up a
 - **Body** — DM Sans 300/400/500 (everything else)
 
 Both loaded via `next/font/google` — zero layout shift, self-hosted by Vercel.
-=======
-# Personal-Portfolio-Website
->>>>>>> dcbd8fdbd58f9e88f52d5436c04a49bb1f342bdc

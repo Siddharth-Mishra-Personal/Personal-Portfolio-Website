@@ -40,7 +40,7 @@ export default function RootLayout({
           <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
             <span className="font-display text-lg text-cream">SM</span>
             <p className="text-muted text-sm">
-              © 2026 Siddharth Mishra · IIT Madras · Delhi
+              © 2026 Siddharth Mishra · IIT Madras · Gurugram/Bangalore
             </p>
             <div className="flex gap-6 text-sm text-muted">
               <a

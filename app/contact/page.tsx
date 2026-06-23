@@ -42,9 +42,7 @@ export default function Contact() {
           <span className="text-gold">overlap.</span>
         </h1>
         <p className="text-muted text-base max-w-xl mb-16 leading-relaxed">
-          Graduating June 2026 from IIT Madras. Based in Delhi, open to relocating for the right
-          opportunity. If you&apos;re building something interesting in AI or investing in the
-          people who are — I&apos;d like to hear about it.
+          Based in Delhi/Bangalore, open to relocating for the right opportunity. If you&apos;re building something interesting in AI or investing in the people who are — I&apos;d like to hear about it.
         </p>
 
         <div className="grid md:grid-cols-2 gap-16">

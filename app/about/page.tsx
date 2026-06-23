@@ -19,7 +19,7 @@ const EDUCATION = [
   {
     degree: "B.Tech · Mechanical Engineering",
     minor: "Minor in Personal & Professional Development (9.50/10)",
-    school: "Indian Institute of Technology, Madras",
+    school: "IIT Madras",
     year: "2022–2026",
     score: "7.55 / 10.00",
   },
@@ -67,19 +67,19 @@ export default function About() {
         </h1>
         <div className="max-w-2xl space-y-4 text-muted text-base leading-relaxed mb-16">
           <p>
-            I grew up in Delhi, earned a seat at IIT Madras through JEE Advanced (AIR 2301), and
+            I grew up in Gurugram, earned a seat at IIT Madras through JEE Advanced (AIR 2301), and
             spent four years learning to think rigorously about systems — mechanical, financial,
             and organisational.
           </p>
           <p>
-            My consulting stints at Accenture and Monitor Deloitte taught me how large organisations
+            My consulting stints at Accenture Strategy and Monitor Deloitte taught me how large organisations
             make decisions under uncertainty. My VC work at igniteXL taught me how early-stage
             companies earn conviction. My B.Tech thesis on solar panel recycling taught me how to
             model a problem end-to-end when no one has done it before.
           </p>
           <p>
             I&apos;m drawn to roles where quantitative thinking and commercial judgment have to work
-            together — VC, AI product, and strategy at technical companies. Graduating June 2026.
+            together — VC, AI product, and strategy at technical companies.
           </p>
         </div>
 
